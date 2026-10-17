@@ -1,0 +1,17 @@
+print ("===================================")
+print ("||                               ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("||  presentacion   de   python   ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("===================================")
+
+
+print ("Nombre: Brayan")
+print ("Programa: ADSO")
+print ("Trimestre: 6 ")
+print ("Edad: 17")

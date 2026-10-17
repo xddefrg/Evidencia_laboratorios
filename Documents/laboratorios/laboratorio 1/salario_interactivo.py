@@ -1,0 +1,16 @@
+Nombre_trabajador = str(input("introdusca nombre de trabajador: "))
+Hora_trabajadas = int(input("Introdusca horas trabajadas: "))
+Valor_por_hora = float(input("introdusca el valor por hora"))
+
+print ("===================================")
+print ("||                               ||")
+print ("||                               ||")
+print ("||      RESUMEN  DEL  PAGO       ||")
+print ("||                               ||")
+print ("||                               ||")
+print ("===================================")
+
+print (f"Nombre del trabajador: {Nombre_trabajador}")
+print (f"Horas Trabajada: {Hora_trabajadas}")
+print (f"Valor por hora: {Valor_por_hora}")
+print (f"Pago total : {Hora_trabajadas * Valor_por_hora}")
